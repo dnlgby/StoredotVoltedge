@@ -1,4 +1,6 @@
-package com.example.storedotvoltedge;
+package com.example.storedotvoltedge.models;
+
+import com.example.storedotvoltedge.models.ApiEntry;
 
 import java.util.List;
 

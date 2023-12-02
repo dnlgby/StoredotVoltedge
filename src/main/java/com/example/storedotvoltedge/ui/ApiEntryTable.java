@@ -1,5 +1,6 @@
-package com.example.storedotvoltedge;
+package com.example.storedotvoltedge.ui;
 
+import com.example.storedotvoltedge.models.ApiEntry;
 import javafx.beans.property.SimpleBooleanProperty;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.scene.control.TableColumn;

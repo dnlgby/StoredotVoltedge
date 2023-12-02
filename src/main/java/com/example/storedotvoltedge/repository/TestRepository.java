@@ -1,9 +1,9 @@
-package com.example.storedotvoltedge;
+package com.example.storedotvoltedge.repository;
 
+import com.example.storedotvoltedge.models.ApiResponse;
+import com.example.storedotvoltedge.api.ApiService;
 import com.google.inject.Inject;
 import retrofit2.Callback;
-
-import java.util.List;
 
 public class TestRepository implements Repository{
 

@@ -1,4 +1,4 @@
-package com.example.storedotvoltedge;
+package com.example.storedotvoltedge.models;
 
 public class ApiEntry {
 
